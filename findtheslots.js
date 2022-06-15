@@ -23,7 +23,7 @@ function fnTest(T,K,D){
             }
         }
         if(tempT == 0) { tempT = 1};
-        console.log(tempT, K,direction);
+       //console.log(tempT, K,direction);
         if(tempT == K){
             arr.push(i+1);
         }
